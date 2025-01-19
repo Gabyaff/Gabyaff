@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Gabrielly Gomes
 
 **`Desenvolvedora FullStack`**
-- 🔭 No momento, estou trabalhando em para me tornar uma desenvolvedora Full Stack
+- 🔭 No momento, estou trabalhando em me tornar uma desenvolvedora Full Stack
 - 🌱 No momento, estou aprendendo Javascript 
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/gabrielly-gomes-775a72210/
 - 😄 Pronomes: ela/dela
